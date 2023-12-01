@@ -1,0 +1,11 @@
+.home-container {
+    background-image: url('https://cdn.futura-sciences.com/sources/images/soldes-hiver-electromenager.jpeg'); /* Replace with the actual path to your image */
+    background-size: cover;
+    background-position: center;
+    color: #ffffff; /* Set text color to white or adjust as needed */
+    padding: 50px; /* Adjust padding as needed */
+    height: 100vh; /* Set height to full viewport height */
+  }
+  
+ 
+  

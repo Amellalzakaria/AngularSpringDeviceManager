@@ -1,0 +1,41 @@
+/* Add these styles to make the page have a cool blue color */
+body {
+  background-color: #f0f2f5;
+}
+
+/* Style for the navbar */
+.navbar {
+  background-color: #0077b5; /* LinkedIn blue color */
+  color: #ffffff; /* White text on the navbar */
+}
+
+/* Style for the headings */
+h3 {
+  color: #54447b;; /* LinkedIn blue color */
+}
+
+/* Style for the forms */
+.form {
+  background-color: #ffffff; /* White background for forms */
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for the table */
+.table {
+  background-color: #ffffff; /* White background for tables */
+  border-radius: 8px;
+  box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+}
+
+/* Style for buttons */
+.btn {
+  background-color: #54447b;; /* LinkedIn blue color */
+  color: #ffffff; /* White text on buttons */
+}
+
+/* Hover effect for buttons */
+.btn:hover {
+  background-color: #54447b;; /* Darker shade for hover effect */
+}
